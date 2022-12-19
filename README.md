@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chirag D</h1>
 <h3 align="center">B.E (Final Year) in Computer Science Engineering | Seeking Entry level opportunities as a Software Developer Engineer</h3>
 
-- 🔭 I’m currently working on **Virtual Assitant for Visually Impaired**
+- 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://gowdachirag2774.wixsite.com/chiragd119](https://gowdachirag2774.wixsite.com/chiragd119)
 
