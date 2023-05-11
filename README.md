@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👨‍💻 All of my projects are available at [https://gowdachirag2774.wixsite.com/chiragd119](https://gowdachirag2774.wixsite.com/chiragd119)
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **gowdachirag2774@gmail.com**
 
