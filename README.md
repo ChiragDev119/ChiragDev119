@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chirag D</h1>
-<h3 align="center">B.E (Final Year) in Computer Science Engineering | Seeking Entry level opportunities as a Software Developer Engineer</h3>
+<h3 align="center"> DSA fellow @ NextLeap | B.E in Computer Science Engineering| Seeking Entry level opportunities as a Software Developer Engineer</h3>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Data Structures and Algorithm**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **gowdachirag2774@gmail.com**
+- 📫 How to reach me **chiragdevaraj8789@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
